@@ -1,0 +1,17 @@
+com/mycompany/mavenproject5/JakartaRestConfiguration.class
+com/chatapp/AcceptGameServlet.class
+com/chatapp/LoginServlet.class
+com/chatapp/AcceptRequestServlet.class
+com/chatapp/DeleteAccountServlet.class
+com/chatapp/GameStateServlet.class
+com/chatapp/FetchMessagesServlet.class
+com/chatapp/DBConnection.class
+com/chatapp/SendRequestServlet.class
+com/chatapp/MoveServlet.class
+com/chatapp/SendGameInviteServlet.class
+com/chatapp/SendMessageServlet.class
+com/chatapp/LogoutServlet.class
+com/chatapp/ReportServlet.class
+com/chatapp/RegisterServlet.class
+com/chatapp/EditProfileServlet.class
+com/mycompany/mavenproject5/resources/JakartaEE10Resource.class

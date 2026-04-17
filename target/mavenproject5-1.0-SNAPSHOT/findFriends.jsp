@@ -1,0 +1,1 @@
+<% response.sendRedirect("dashboard.jsp?page=find"); %>
